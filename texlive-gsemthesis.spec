@@ -1,6 +1,6 @@
 Name:		texlive-gsemthesis
 Version:	56291
-Release:	1
+Release:	2
 Summary:	Geneva School of Economics and Management PhD thesis format
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gsemthesis
