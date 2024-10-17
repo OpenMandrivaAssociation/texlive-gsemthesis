@@ -3,7 +3,7 @@ Version:	56291
 Release:	2
 Summary:	Geneva School of Economics and Management PhD thesis format
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gsemthesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gsemthesis
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gsemthesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gsemthesis.doc.r%{version}.tar.xz
